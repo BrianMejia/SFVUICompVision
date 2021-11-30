@@ -4,7 +4,7 @@ A utility tool that will detect regions of the Street Fighter V UI. Video sample
 A requirements.txt has been provided. Use `pip install -r requirements.txt` to install the required dependencies.
 
 ## Samples
-Match Start is detected first. This helps to determine the player side based on the given CFN ID. Each player's character is also determined through OCR.
+Match Start is detected first. This helps to determine the player side based on the given CFN ID. The opponent's character is also determined through OCR.
 
 https://user-images.githubusercontent.com/12419346/144117047-84d36535-caf4-4b13-b953-a0f35619214d.mp4
 
